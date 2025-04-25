@@ -120,5 +120,5 @@ Node.js community resources
 For support or inquiries:
 ```
 Email: support@PrakritiCheck.com
-GitHub: @WaliKhan09, @amisha-singh12
+GitHub: [Mohammad Wali Khan](https://github.com/WaliKhan09), [Amisha Singh](https://github.com/amisha-singh12)
 ```
