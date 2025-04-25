@@ -61,7 +61,7 @@ PrakritiCheck is a web application that helps users identify their Ayurvedic Pra
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amisha-singh12/PrakritiCheck.git
+   git clone https://github.com/WaliKhan09/Ayurbot.git
    cd ayurbot
 
 2. **Install dependencies**
@@ -71,7 +71,7 @@ PrakritiCheck is a web application that helps users identify their Ayurvedic Pra
 3. **Set up environment variables**
     Create .env file in root directory:
    ```bash
-   MONGODB_URI=mongodb://localhost:27017/PrakritiCheck
+   MONGODB_URI=mongodb://localhost:27017/Ayurbot
    SESSION_SECRET=your_session_secret_key
 
 4. **Start the development server**
@@ -120,5 +120,5 @@ Node.js community resources
 For support or inquiries:
 ```
 Email: support@PrakritiCheck.com
-GitHub: @amisha-singh12
+GitHub: @WaliKhan09, @amisha-singh12
 ```
