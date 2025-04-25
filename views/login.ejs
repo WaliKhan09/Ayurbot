@@ -12,10 +12,10 @@
     <%- include('partials/header') %>
 
     <section class="container mt-5" style="max-width: 500px;">
-        <% if (error) { %>
+        <% if (error && error.length > 0) { %>
             <div class="alert alert-danger"><%= error %></div>
         <% } %>
-        <% if (success) { %>
+        <% if (success && success.length > 0) { %>
             <div class="alert alert-success"><%= success %></div>
         <% } %>
         <div class="card shadow">
